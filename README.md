@@ -1,4 +1,4 @@
-# UTS PEMROGRAMAN MOBiLe 1
+# UTS PEMROGRAMAN MOBiLE 1
 
 ### Nama: Bagus aditya hemawan
 ### Nim: 312410382
